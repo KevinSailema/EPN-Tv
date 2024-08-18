@@ -15,8 +15,11 @@ EPN Tv es una aplicación revolucionaria para Android que transforma tu disposit
 
 ## Capturas de Pantalla 📸
 
-![Captura de Pantalla 1](url_de_captura_1)
-![Captura de Pantalla 2](url_de_captura_2)
+Pantalla Inicial
+<img src="https://raw.githubusercontent.com/KevinSailema/EPN-Tv/main/Capturas/Screenshot%202024-08-17%20at%2010.50.07%E2%80%AFPM.png">
+Funcionamiento
+<img src="https://raw.githubusercontent.com/KevinSailema/EPN-Tv/main/Capturas/Screenshot%202024-08-17%20at%2010.52.28%E2%80%AFPM.png">
+
 
 Estas imágenes demuestran la facilidad de uso y el diseño intuitivo de la aplicación, destacando cómo los usuarios pueden interactuar con la variedad de funciones disponibles.
 
