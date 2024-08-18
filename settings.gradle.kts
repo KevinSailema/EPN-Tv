@@ -14,7 +14,7 @@ dependencyResolutionManagement {
         maven("https://plugins.gradle.org/m2/")
     }
 }
-rootProject.name = "M3U"
+rootProject.name = "EPN Tv"
 include(":androidApp")
 include(":core")
 include(":data")

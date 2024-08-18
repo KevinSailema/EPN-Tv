@@ -18,7 +18,7 @@ android {
         minSdk = 26
         targetSdk = 33
         versionCode = 142
-        versionName = "1.14.0-rc02"
+        versionName = "Versión demo del proyecto"
 
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
         testInstrumentationRunnerArguments["androidx.benchmark.profiling.mode"] = "MethodTracing"
